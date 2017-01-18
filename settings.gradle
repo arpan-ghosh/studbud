@@ -1,0 +1,2 @@
+include ':circularimageview', ':app'
+project(':circularimageview').projectDir = new File('app/libs/CircularImageView-master/circularimageview')
